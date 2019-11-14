@@ -1,0 +1,18 @@
+/* Navbar */
+nav{
+    box-shadow: 0 5px 30px #000000;
+    background: rgb(25,76,80);
+    background: linear-gradient(90deg, rgba(25,76,80,.7) 0%, rgba(20,187,239,.7) 100%);
+	z-index: 1;
+}
+.nav-link#navbarDropdownMenuLink {
+	color: #FFFFFF;
+	margin: 0px 0px 0px 30px;
+}
+.dropdown-menu#n01, .dropdown-menu#n02, .dropdown-menu#n03, .dropdown-menu#n04{
+    padding: 0px;
+    margin: -10px 0px 0px 0px;
+}
+.navbar{
+    z-index: 100;
+}

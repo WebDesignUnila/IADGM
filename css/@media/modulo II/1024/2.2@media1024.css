@@ -1,0 +1,17 @@
+@media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+    /* Title */
+    .titletxt{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 50px;
+    margin: -170px 0px 0px 0px;
+    height: 170px;
+}
+
+/*Title Nav Container*/
+.titlenavcontainer{
+    font-weight: 300;
+    font-size: 35px;
+}
+
+}

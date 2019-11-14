@@ -1,0 +1,18 @@
+@media only screen and (min-width: 0px) and (max-width: 414px){
+/* Nav */
+    .nav-link.dropdown-toggle#navbarDropdownMenuLink{
+        color: rgba(252,166,21,1.00);
+        background: rgba(1,129,168,0.90);
+        margin: -5px 0px 0px 0px;
+        width: 100%;
+    }
+.txtimageopen01{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px 0px 0px 0px;
+    margin: -90px 0px 0px 0px;
+}
+
+	
+}

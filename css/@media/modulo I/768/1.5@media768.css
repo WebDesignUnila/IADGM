@@ -1,0 +1,36 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Title */
+img#tb05{
+    height: 200px;
+}
+.titletxt{
+    font-weight: 400;
+    font-size: 40px;
+    margin: -180px 0px 0px 0px;
+    height: 180px;
+}
+/* Container 00 */
+.txtimageopen19{
+    font-size: 30px;
+    padding: 55px 10px 0px 10px;
+    margin: -150px 0px 0px 0px;
+}
+.txtimageopen20{
+    font-size: 30px;
+    padding: 40px 10px 0px 10px;
+    margin: -150px 0px 0px 0px;
+}
+/* Container 01 */
+/* Container 02 */
+.txtimageopen21{
+    font-size: 30px;
+    padding: 50px 10px 0px 10px;
+    margin: -150px 0px 0px 0px;
+}
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */		
+}

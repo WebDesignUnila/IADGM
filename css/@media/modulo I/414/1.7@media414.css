@@ -1,0 +1,36 @@
+@media only screen and (min-width: 0px) and (max-width: 414px){
+/* Title */
+img#tb07{
+    width: 100%;
+    height: 100%;
+}
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    margin: -85px 0px 0px 0px;
+    height: 85px;
+}
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 220px;
+    height: 100%;
+}
+/* Container 00 */
+.txtimageopen27{
+    font-size: 30px;
+    padding: 60px 10px 0px 10px;
+    margin: -150px 0px 0px 0px;
+}
+/* Container 01 */
+/* Container 02 */
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */	
+}

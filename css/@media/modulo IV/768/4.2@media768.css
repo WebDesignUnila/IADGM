@@ -1,0 +1,11 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 35px;
+    margin: -120px 0px 0px 0px;
+    height: 120px;
+}
+	
+}

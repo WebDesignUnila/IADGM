@@ -1,0 +1,91 @@
+.navbar{
+    z-index: 100;
+}
+/*Body*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	font-weight: 500;
+    text-align: justify;
+    padding: 15px 15px 10px 15px;
+}
+p.title{
+    font-weight: 200;
+    font-size: 22px;
+}
+p.subtitle{
+    font-weight: 300;
+    font-size: 20px;
+}
+.card{
+	box-shadow: 0 5px 30px #000000;
+    padding: 0px;
+}
+.card-body{
+    text-align: justify;
+    padding: 5px;
+}
+.card-header{
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+.card-text{
+    border-left-width: 8px;
+	border-color: #e3244f;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+.ligthbox{
+    color: #FFFFFF;
+    background: rgb(119,89,153);
+    background: linear-gradient(90deg, rgba(119,89,153,.8) 0%, rgba(20,187,239,.8) 100%);
+}
+/* Title */
+.titlebackground{
+    margin: 0px 0px 0px 0px;
+}
+img#tb12{
+    width: 100%;
+    height: 100%;
+}
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 80px;
+    margin: -260px 0px 0px 0px;
+    height: 260px;
+}
+
+/* Container 00 */
+.container00{
+    box-shadow: 0 15px 40px #353535;
+}
+.container00 p{
+    padding: 15px 15px 0px 15px;
+}
+/* Container 01 */
+/* Acordion */
+.card#accordion1b {
+    margin: -15px 0px 0px 0px; 
+}
+.card#accordion1c, .card#accordion1d {
+    margin: -1px 0px 0px 0px;     
+}
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 0px;
+}
+/* Container 02 */
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */

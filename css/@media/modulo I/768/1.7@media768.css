@@ -1,0 +1,23 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Title */
+img#tb07{
+    width: 100%;
+    height: 100%;
+}
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 40px;
+    margin: -160px 0px 0px 0px;
+    height: 160px;
+}
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 550px;
+    height: 100%;
+}
+	
+}

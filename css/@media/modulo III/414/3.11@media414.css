@@ -1,0 +1,14 @@
+@media only screen and (min-width: 0px) and (max-width: 414px){
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    margin: -90px 0px 0px 0px;
+    height: 90px;
+}
+    .flip-box#HHC{
+        margin: 0px 0px 0px px;
+    }
+	
+}

@@ -1,0 +1,34 @@
+@media only screen and (min-width: 0px) and (max-width: 414px){
+/* Container 00 */
+/* Container 01 */
+    .container01{
+        font-size: 20px;
+        padding: 15px 20px 0px 20px;
+    }
+    p#txtc01{
+        text-align: justify;
+    }
+/* Container 02 */
+    .container02{
+        font-size: 15px;
+    }
+/* Container 03 */
+    .container03{
+        font-size: 20px;
+        padding: 10PX 20PX 0PX 20PX;
+    }
+    p#txtc03{
+        text-align: justify;
+    }
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+    p#txtc06a{
+        font-size: 25px;
+        margin: 5px 0px 0px 0px;
+    }
+    p#txtc06b{
+        font-size: 15px;
+    }
+/* Container 07 */
+}

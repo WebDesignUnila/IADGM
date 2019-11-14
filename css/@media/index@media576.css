@@ -1,0 +1,30 @@
+@media only screen and (min-width: 0px) and (max-width: 576px){
+	/* Container 05*/
+
+.contenedor {
+  text-align: center;
+  position: relative;
+  height: 200px;
+  width: 200px;
+  padding: -10px -10px 0px 0px;
+  margin: 0px px 0px 0px;
+  float: left;
+	background: #F77B7D;
+}
+
+.contenedor img {
+	margin: auto;
+	padding: 0px;
+    width: 100%;
+	height: 100%;
+  position: absolute;
+  left: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.contenedor img.top:hover {
+  opacity: 0;
+}
+
+	
+}

@@ -1,0 +1,11 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Nav */
+    .nav-link.dropdown-toggle#navbarDropdownMenuLink{
+        color: rgba(252,166,21,1.00);
+        background: rgba(1,129,168,0.90);
+        margin: -5px 0px 0px 0px;
+        width: 100%;
+    }
+
+	
+}

@@ -1,0 +1,110 @@
+.navbar{
+    z-index: 100;
+}
+/* Body */
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-weight: 500;
+    padding: 20px;
+    text-align: justify;
+}
+.card-text{
+    border-color: #FCA615;
+	border-left-style: solid;
+}
+
+/* Title */
+.titlebackground{
+    margin: 0px 0px 0px 0px;
+}
+img#tb09{
+    width: 100%;
+    height: 100%;
+}
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 80px;
+    margin: -250px 0px 0px 0px;
+    height: 250px;
+}
+
+/*Title Nav Container*/
+.titlenavcontainer{
+    font-weight: 300;
+    font-size: 40px;
+}
+
+/* Card */
+.card{
+	box-shadow: 0 5px 40px #000000;
+    padding: 0px;
+}
+.card-body{
+    text-align: justify;
+    padding: 5px;
+}
+.card-text{
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+
+
+
+/* Nav */
+nav#container{
+background: rgb(41,128,136);
+background: linear-gradient(90deg, rgba(41,128,136,1) 0%, rgba(20,187,239,1) 100%);
+}
+.nav-item{
+    height: 63px;
+}
+
+/* Dossier */
+.fas.fa-chalkboard-teacher{
+    color: #4F4F4F;
+    font-size: 50px;
+    margin: 0px 0px 20px 20px;
+    width: 50px;
+    height: 50px;
+}
+/* Modal */
+.modal.fade{
+    background: rgba(1,129,168,1.00);
+    height: 100%;
+}
+.modal-dialog{
+    background: rgba(252,166,21,1.00);
+}
+.modal-content{
+    background: rgba(226,226,42,1.00);
+    margin: 0px 0px 0px -150px;
+    width: 800px;
+}
+.modal-header{    
+    background: rgba(227,36,79,1.00);
+}
+.list-group#list-tab, .list-group#list-tab02{
+    flex-direction: row;
+    display: flex;    
+}
+.modal-body{
+    background: rgba(119,89,153,1.00);
+}
+.tab-pane.mod1, .tab-pane.mod2{
+    width: 150%;
+}
+/* Container 00 */
+/* Container 01 */
+/* Container 02 */
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */

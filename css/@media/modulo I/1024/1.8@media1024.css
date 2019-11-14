@@ -1,0 +1,25 @@
+@media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+/* Title */
+    .titletxt{
+    text-align: center;
+    color: #000000;
+    font-weight: 400;
+    font-size: 60px;
+    margin: -180px 0px 0px 0px;
+    height: 180px;
+}
+/* Container 00 */
+.txtimageopen28{
+    font-size: 25px;
+    padding: 40px 10px 0px 10px;
+    margin: -150px 0px 0px 0px;
+}
+/* Container 01 */
+/* Container 02 */
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */
+}

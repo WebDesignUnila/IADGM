@@ -1,0 +1,46 @@
+@media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+/* Title */
+.titletxt {
+    font-size: 50px;
+    margin: -165px 0px 0px 0px;
+    height: 165px;
+}
+/* Image */
+.txtimageopen02{
+    text-align: center;
+    font-size: 20px;
+    margin: 380px 0px 0px 0px;
+}
+.txtimageopen03{
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+.txtimageopen04{
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+}
+.txtimageopen05{
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+/* Container 02 */
+p.title{
+    font-size: 17.5px;
+}
+.container02b .card#c01 .face.face2 p#txtc02{
+    font-size: 13px;
+    transition: 0.5s;
+    color: #FFFFFF;
+    margin: 0px;
+    height: 100%;
+}
+.container02b .card#c01 .face.face1{
+    margin-top: 55px;
+}
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */
+}

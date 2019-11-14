@@ -1,0 +1,91 @@
+/*Body*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-weight: 500;
+    text-align: justify;
+    padding: 15px 15px 10px 15px;
+}
+p.subtitle{
+    font-weight: 300;
+    font-size: 20px;
+}
+.card{
+	box-shadow: 0 5px 30px #000000;
+    padding: 0px;
+}
+.card-body{
+    text-align: justify;
+    padding: 5px;
+}
+.card-text{
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+
+/* Title */
+.titlebackground{
+    width: 100%;
+    height: 100%;
+}
+
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 70px;
+    margin: -270px 0px 0px 0px;
+    height: 270px;
+}
+
+/*Acordion*/
+.card-header#heading1, .card-header#heading2, .card-header#heading3, .card-header#heading4, .card-header#heading5, .card-header#heading6 {
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+.card#accordion1, .card#accordion2, .card#accordion3, .card#accordion4, .card#accordion5, .card#accordion6 {
+	background: #F5F5F5;
+	margin: 0;
+}
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 0px;
+}
+
+/*Container 01*/
+.container01{
+    justify-content: center;
+    margin: -20px 0px 0px 0px;
+}
+
+/* Container 01a */
+.container01a{
+    padding: 0;
+    margin: 10px 0;
+    
+}
+/* Container 01b */
+.container01b{
+    padding: 0px;
+    margin: 10px 0px;
+    height: 100%;
+    z-index: 1;
+}
+.txt01b{
+  text-align: center;
+}
+
+/* Container 01c */
+.container01c{
+    padding: 0;
+    margin: 10px 0;
+    height: 200px;
+}
+

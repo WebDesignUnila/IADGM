@@ -1,0 +1,54 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Title */
+.titletxt{
+    font-weight: 400;
+    font-size: 30px;
+    margin: -140px 0px 0px 0px;
+    height: 140px;
+}
+/*Image */
+.txtimageopen06{
+    font-size: 30px;
+    margin: 90px 0px 0px 0px;
+}
+.txtimageopen07{
+    font-size: 30px;
+    margin: 110px 0px 0px 0px;
+}
+.txtimageopen08{
+    font-size: 30px;
+    margin: 280px 0px 0px 0px;
+}
+.txtimageopen09{
+    font-size: 30px;
+    margin: 140px 0px 0px 0px;
+}
+.txtimageopen10{
+    font-size: 30px;
+    margin: 95px 0px 0px 0px;
+}
+
+.txtimageopen11{
+    font-size: 30px;
+    margin: -120px 0px 0px -15px;
+}   
+.txtimageopen12{
+    font-size: 30px;
+    margin: -130px 0px 0px -10px;
+}    
+
+.txtimageopen13{
+    font-size: 30px;
+    margin: 70px 0px 0px 0px;
+}
+.txtimageopen14{
+    font-size: 30px;
+    margin: 140px 0px 0px 0px;
+}    
+    
+    
+    
+    
+    
+    
+}

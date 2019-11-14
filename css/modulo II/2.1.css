@@ -1,0 +1,268 @@
+/*Body*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	font-weight: 500;
+    text-align: justify;
+    padding: 15px 15px 10px 15px;
+}
+p.subtitle{
+    font-weight: 300;
+    font-size: 20px;
+}
+.card{
+	box-shadow: 0 5px 30px #000000;
+    padding: 0px;
+}
+.card-body{
+    text-align: justify;
+    padding: 5px;
+}
+.card-text{
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+
+/*Acordion*/
+.card-header#heading1, .card-header#heading2, .card-header#heading3, .card-header#heading4, .card-header#heading5, .card-header#heading6 {
+    border-left-width: 8px;
+	border-color: #FCA615;
+	border-left-style: solid;
+	background: #FFFFFF;
+}
+.card#accordion1, .card#accordion2, .card#accordion3, .card#accordion4, .card#accordion5, .card#accordion6 {
+	background: #F5F5F5;
+	margin: 0;
+}
+/* Icono Acordion*/
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 0px;
+}
+/* Title */
+.titlebackground{
+    margin: 0px 0px 0px 0px;
+}
+img#tb09{
+    width: 100%;
+    height: 100%;
+}
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 80px;
+    margin: -280px 0px 0px 0px;
+    height: 280px;
+}
+
+/*Title Nav Container*/
+.titlenavcontainer{
+    font-weight: 300;
+    font-size: 40px;
+}
+
+/* Nav */
+nav#container{
+background: rgb(41,128,136);
+background: linear-gradient(90deg, rgba(41,128,136,1) 0%, rgba(20,187,239,1) 100%);
+}
+.nav-item{
+    height: 63px;
+}
+/* Dossier */
+.fas.fa-chalkboard-teacher{
+    color: #4F4F4F;
+    font-size: 50px;
+    margin: 0px 0px 20px 20px;
+    width: 50px;
+    height: 50px;
+}
+/* Modal */
+.modal.fade{
+    height: 100%;
+}
+.modal-dialog{
+
+}
+.modal-content{
+
+    margin: 0px 0px 0px -150px;
+    width: 800px;
+}
+.modal-header{    
+ 
+}
+.list-group#list-tab, .list-group#list-tab02{
+    flex-direction: row;
+    display: flex;    
+}
+.modal-body{
+
+}
+.tab-pane.mod1, .tab-pane.mod2{
+    width: 150%;
+}
+
+/* Container 00 */
+.container00b{
+    box-shadow: 0 15px 40px #353535;
+    color: #000000;
+background: rgb(20,187,239);
+background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6) 100%);
+}
+
+/* Container 01 */
+/*2.1.1a*/
+/*Acordion*/
+.card-header{
+    border-color: #FCA615;
+	border-left-style: solid;
+}
+.card#accordion1b{
+    margin: -15px 0px 0px 0px; 
+}
+.card#accordion1c{
+    margin: -1px 0px 0px 0px;     
+}
+
+/*2.1.1b*/
+.txt01d{
+background: rgb(20,187,239);
+background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6) 100%);  
+}
+.card#accordion2b{
+    margin: -15px 0px 0px 0px;
+}
+
+/* Container 02 */
+/* Time Line*/
+.hover#hoverc02, .hover#hoverc03 {
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+    height: 430px; 
+}
+.card.hoverc02a{
+    width: 300px;
+    height: 410px;
+}
+.face.face1{
+    background: rgba(20,187,239,0.30);
+    height: 410px;
+}
+.face.face2{
+    align-items: center;
+    display: flex;
+    transition: 0.5s;
+    background: rgb(226,226,42);
+background: linear-gradient(90deg, rgba(226,226,42,0.8) 0%, rgba(20,187,239,0.8) 100%);
+    margin: -410px 0px 0px 0px;
+    height: 410px;
+}
+.card.hoverc02a:hover .face.face2{
+    height: 120px;
+}
+.txthoverc02a{
+    margin: 120px 0px 0px 0px;
+}
+/* Container02b */
+.container02b{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+/* Acordion */
+.card#accordion5{
+    margin: -15px 0px 0px 0px;
+}
+img{
+    width: 100%;
+}
+
+/* Container 03 */
+.container03b, .container03c{
+    height: 100%;
+
+}
+
+/* Container 04 */
+.container04b, .container04c{
+    height: 100%;
+}
+
+/* Container 05 */
+.container05d{
+    height: 100%;
+}
+
+
+
+
+
+/*Hover Flip */
+.txthhb{
+    font-size: 13.5px;
+}
+
+.hoverhorizontal{
+    width: 205px;
+    height: 300px;
+}
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box {
+  background-color: transparent;
+  width: 205px;
+  height: 300px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-box-front {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  font-size: 25px;
+  background-color: #0181A8;
+  color: rgba(255,255,255,1.00);
+}
+
+/* Style the back side */
+.flip-box-back {
+  background-color: #14BBEF;
+  color: white;
+  transform: rotateY(180deg);
+}
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */

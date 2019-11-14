@@ -1,0 +1,24 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Title */
+.titletxt{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin: -160px 0px 0px 0px;
+    height: 160px;
+}
+/* Container 01c */
+.container01c{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    height: 200px;
+}
+/* Img 01 */
+.imageopen01{
+    margin: -15px 0px 0px 0px;
+    height: 130px;
+}   
+.txtimageopen01{
+    font-size: 40px;
+    margin: -100px 0px 0px 0px;
+}
+}

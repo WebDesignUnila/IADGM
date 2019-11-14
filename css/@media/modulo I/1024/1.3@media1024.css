@@ -1,0 +1,62 @@
+@media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+/* Title */
+.titletxt{
+    color: #FFFFFF;
+    font-size: 50px;
+    margin: -200px 0px 0px 0px;
+    height: 200px;
+}
+/* Image */
+.txtimageopen06{
+    font-size: 20px;
+    margin: 190px 0px 0px 0px;
+}
+.txtimageopen07{
+    font-size: 20px;
+    margin: 190px 0px 0px 0px;
+}
+.txtimageopen08{
+    font-size: 20px;
+    margin: 390px 0px 0px 0px;
+}
+.txtimageopen09{
+    font-size: 20px;
+    margin: 270px 0px 0px 0px;
+}
+.txtimageopen10{
+    font-size: 20px;
+    margin: 210px 0px 0px 0px;
+}
+.txtimageopen11{
+    font-size: 20px;
+    margin: -130px 0px 0px -15px;
+}
+.txtimageopen12{
+    font-size: 20px;
+    margin: -130px 0px 0px -15px;
+}
+.txtimageopen13{
+    font-size: 20px;
+    margin: 90px 0px 0px 0px;
+}
+.txtimageopen14{
+    font-size: 20px;
+    margin: 300px 0px 0px 0px;
+}
+/* Container 00 */
+/* Container 01 */
+/* Container 02 */
+/* Container 03 */
+.card-header .fas.fa-plus-circle{
+    color: #6C6C6C;
+    justify-content: flex-end;
+    display: flex;
+    margin: -21px 0px 10px 180px;
+    height: 100%;
+}
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */
+}

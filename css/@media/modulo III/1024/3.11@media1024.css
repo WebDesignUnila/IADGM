@@ -1,0 +1,27 @@
+@media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+.titletxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 50px;
+    margin: -210px 0px 0px 0px;
+    height: 210px;
+}
+.txthhb{
+    font-size: 12px;
+}
+
+.hoverhorizontal{
+    width: 320px;
+    height: 490px;
+}
+/*Hover Flip */
+.flip-box {
+  background-color: transparent;
+  width: 320px;
+  height: 490px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+}

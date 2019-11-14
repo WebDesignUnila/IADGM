@@ -1,0 +1,56 @@
+@media only screen and (min-width: 415px) and (max-width: 768px){
+/* Title */
+.titletxt{
+    color: #FFFFFF;
+    font-size: 40px;
+    margin: -120px 0px 0px 0px;
+    height: 120px;
+}
+/* Image */
+.txtimageopen02{
+    text-align: center;
+    font-size: 27px;
+    margin: 180px 0px 0px 0px;
+}
+.txtimageopen03{
+    font-size: 27px;
+    margin: 5px 0px 0px 0px;
+}
+.txtimageopen04{
+    font-size: 27px;
+    margin: 5px 0px 0px 0px;
+}
+.txtimageopen05{
+    font-size: 27px;
+    margin: 25px 0px 0px 0px;
+}
+   
+/* Container 00 */
+    
+/* Container 01 */
+ 
+/* Container 02 */
+    .container02b .card#c01 .face.face1{
+    }
+    .listc02{
+        padding:  60px 0px 0px 40px;
+        margin: 0px 0px 0px 0px;
+        width: 100%;
+        height: 100%;
+    }
+    .container02b .card#c01 .face.face2{
+        padding: 10px;
+    }
+    p#txtc02{
+        font-size: 20px;
+    }
+    .container02c{
+        margin:  25px 0px 0px 0px;
+    }
+/* Container 03 */
+/* Container 04 */
+/* Container 05 */
+/* Container 06 */
+/* Container 07 */
+/* Container 08 */
+}

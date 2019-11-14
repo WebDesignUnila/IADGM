@@ -1,0 +1,36 @@
+@media only screen and (min-width: 0px) and (max-width: 414px){
+/* Title */
+.titletxt{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: -70px 0px 0px 0px;
+    height: 70px;
+}
+/* Image */
+.txtimageopen02{
+    font-size: 21px;
+    margin: 320px 0px 0px 0px;
+}
+.txtimageopen03{
+    font-size: 21px;
+    margin: 10px 0px 0px 0px;
+}
+.txtimageopen04{
+    font-size: 21px;
+    margin: 0px 0px 0px 0px;
+}
+.txtimageopen05{
+    font-size: 21px;
+    margin: 15px 0px 0px 0px;
+}
+/*Container 00*/
+
+/*Container 01*/
+
+
+/*Container 02*/
+.container02c{
+    margin: 24px 0px 0px 0px;
+}  
+/*Container 03*/
+}
