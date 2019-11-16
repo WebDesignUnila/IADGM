@@ -129,9 +129,17 @@ background: linear-gradient(90deg, rgba(25,76,80,1) 0%, rgba(20,187,239,1) 100%)
     height: 100%;
 }
 .container02b .card#c01 .face.face1{
+    height: 100%;
     box-sizing: border-box;
-    padding: 5px;
-    margin-top: 40px;
+    padding: 0px;
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+}
+.container02b .card#c01 .face.face1 .listc02{
+    padding: 0;
+    margin: 100px -250px 0px -250px;
+    width: 100%;
 }
 .container02b .card#c01:hover .face.face2{
     height: 90px;
@@ -154,6 +162,7 @@ background: linear-gradient(90deg, rgba(25,76,80,1) 0%, rgba(20,187,239,1) 100%)
 .container02b .card#c01 .face.face2 p#txtc02{
     transition: 0.5s;
     color: #FFFFFF;
+    font-size: 19px;
     margin: 0px;
     height: 100%;
 }

@@ -28,14 +28,11 @@ p.title{
     font-size: 17.5px;
 }
 .container02b .card#c01 .face.face2 p#txtc02{
-    font-size: 13px;
+    font-size: 13.5px;
     transition: 0.5s;
     color: #FFFFFF;
     margin: 0px;
     height: 100%;
-}
-.container02b .card#c01 .face.face1{
-    margin-top: 55px;
 }
 /* Container 03 */
 /* Container 04 */

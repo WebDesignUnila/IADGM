@@ -14,11 +14,8 @@
     font-size: 20px;
     margin: 25px 0;
 }
-/* Container 02 */
-/* Container 03 */
-/* Container 04 */
-/* Container 05 */
-/* Container 06 */
-/* Container 07 */
-/* Container 08 */	
+.container02b .card#c01 .face.face2 p#txtc02{
+    font-size: 16px;
+}
+    
 }
