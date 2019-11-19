@@ -27,17 +27,14 @@ p#txtc01{
 }
 /* Container 02 */
 .container02{
-    color: #000000;
     font-size: 21px;
     font-weight: 500;
-    background: rgb(206,178,124);
-    background: linear-gradient(180deg, rgba(206,178,124,0.8) 100%, rgba(0,0,0,0.8) 100%);
-    padding: 20px 30px 5px 30px;
+    color: rgba(85,41,125,1.00);
+background: rgb(20,187,239);
+background: linear-gradient(90deg, rgba(20,187,239,1) 0%, rgba(226,226,42,1) 100%);
+    padding: 20px 20px 5px 20px;
     margin: -20px 0px 0px 0px;
     height: auto;
-}
-p#txtc02a, p#txtc02b, p#txtc02c {
-    color: #000000;
 }
 /* Container 03 */
 .container03{
@@ -90,8 +87,7 @@ img{
 }
 .txtc05{
     position: absolute;
-background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,0.5) 42%, rgba(206,178,124,0.4) 100%);
+    background: rgba(1,129,168,.5);
     margin: -280px 100px 100px 0px;
     width: 100%;
     height: 280px;
@@ -99,12 +95,11 @@ background: linear-gradient(90deg, rgba(0,0,0,0.5) 42%, rgba(206,178,124,0.4) 10
 .titlemodulo{
     font-size: 25px;
     font-weight: 500;
-    color: #CEB27C;
+    color: #FFFFFF;
     margin: -15px 0px 0px 0px;
 }
 a{
-    color: #ceb27c;
-    font-size: 18px;
+    color: #FFFFFF;
 }
 a:hover{
     color: #14BBEF;
@@ -117,9 +112,9 @@ ol{
 }
 /* Container 06 */
 .container06{
-    color: #000000;
-    background: rgb(206,178,124);
-    background: linear-gradient(180deg, rgba(206,178,124,0.8) 100%, rgba(0,0,0,0.8) 100%);
+    color: rgba(85,41,125,1.00);
+background: rgb(20,187,239);
+background: linear-gradient(90deg, rgba(20,187,239,1) 0%, rgba(226,226,42,1) 100%);
     margin-top: -20px;
 }
 p#txtc06a{
@@ -147,8 +142,9 @@ h3#txtc07b{
 }
 /* Container 08 */
 .container08{
-    color: #FFFFFF;
-    background: rgba(6,6,6,1.00);
+    color: #55297D;
+background: rgb(20,187,239);
+background: linear-gradient(90deg, rgba(20,187,239,1) 0%, rgba(226,226,42,1) 100%);
     text-align: center;
     padding: 20px;
     margin-top: -23px;
