@@ -121,6 +121,14 @@ background: linear-gradient(90deg, rgba(0,0,0,0.5) 42%, rgba(206,178,124,0.4) 10
     color: #CEB27C;
     margin: -15px 0px 0px 0px;
 }
+.fas.fa-user-circle{
+    margin: 0px 50px 0px 0px;
+}
+.experto1, .experto2, .experto3, .experto4{
+    color: #ceb27c;
+    font-size: 24px;
+    margin: 50px 0px 0px 50px;
+}
 a{
     color: #ceb27c;
     font-size: 18px;
