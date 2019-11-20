@@ -15,6 +15,25 @@ video {
     width: 100%;
     height: 100%;   
 }
+.titlebackground{   
+    color: rgba(255,255,255,1.00);
+    padding: 70px 50px 0px 50px;
+    margin: -1150px 0px 0px 0px;
+    width: 100%;
+    z-index: 1;
+}
+.txtbackground1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 300;
+    margin: 90px 0px 0px 0px;
+}
+.txtbackground2{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 300;
+    margin: 200px 0px 0px 0px;
+}
 /* Container 01*/
 .container01{
     font-size: 40px;
