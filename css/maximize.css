@@ -19,9 +19,7 @@
     margin: -100px 0px 0px 0px;
     width: 568px;
     height: 320px;
-    
     background-color: rgba(119,89,153,0.00);
-    
     z-index: 102;
 }
 
@@ -54,8 +52,8 @@
     color: #FFFFFF;
     text-align: center;
     font-size: 30px;
-    padding: -70px 0px 0px 0px;
-    margin: -90px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: -85px 0px;
 }
 
 .imageopen02{
@@ -397,4 +395,14 @@
     margin: -150px 0px 0px 0px;
 }
 
+.imageopen35{
+    margin: 0px 0px 0px 0px;
+}
+.txtimageopen35{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    padding: 60px 0px 0px 0px;
+    margin: -150px 0px 0px 0px;
+}
 

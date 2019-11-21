@@ -38,6 +38,7 @@ p.subtitle{
 	background: #F5F5F5;
 	margin: 0;
 }
+
 /* Icono Acordion*/
 .card-header .fas.fa-plus-circle{
     color: #6C6C6C;
@@ -45,6 +46,7 @@ p.subtitle{
     display: flex;
     margin: -21px 0px 10px 0px;
 }
+
 /* Title */
 .titlebackground{
     margin: 0px 0px 0px 0px;

@@ -1,15 +1,16 @@
 @media only screen and (min-width: 415px) and (max-width: 768px){
+/*Body*/
+p.titletxt{
+    text-align: center;
+    font-size: 25px;
+}
 /* Title */
-.titletxt{
-    color: #FFFFFF;
-    font-size: 40px;
-    margin: -160px 0px 0px 0px;
-    height: 160px;
+.title{
+    margin: -115px 0px 0px 0px;
+    height: 115px;
 }
 /* Container 01c */
 .container01c{
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
     height: 200px;
 }
 /* Img 01 */
@@ -19,6 +20,6 @@
 }   
 .txtimageopen01{
     font-size: 40px;
-    margin: -100px 0px 0px 0px;
+    margin: -85px 0px 0px 0px;
 }
 }

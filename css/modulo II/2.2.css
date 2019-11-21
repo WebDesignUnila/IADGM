@@ -1,6 +1,3 @@
-.navbar{
-    z-index: 100;
-}
 /* Body */
 body{
     font-family: 'Montserrat', sans-serif;
@@ -28,8 +25,8 @@ img#tb09{
     color: #FFFFFF;
     font-weight: 400;
     font-size: 80px;
-    margin: -250px 0px 0px 0px;
-    height: 250px;
+    margin: -310px 0px 0px 0px;
+    height: 310px;
 }
 
 /*Title Nav Container*/

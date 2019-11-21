@@ -1,15 +1,25 @@
 /*Body*/
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
     font-family: 'Montserrat', sans-serif;
 }
-p{
-	font-weight: 500;
-    text-align: justify;
-    padding: 15px 15px 10px 15px;
+p.titletxt{
+    text-align: center;
+    font-weight: 400;
+    font-size: 70px;
 }
-p.subtitle{
+p.subtitletxt{
     font-weight: 300;
     font-size: 20px;
+}
+p{
+    text-align: justify;
+	font-weight: 500;
+    font-size: 17px;
+    padding: 15px 15px 10px 15px;
 }
 .card{
 	box-shadow: 0 5px 30px #000000;
@@ -32,11 +42,8 @@ p.subtitle{
     height: 100%;
 }
 
-.titletxt{
-    text-align: center;
-    color: #FFFFFF;
-    font-weight: 400;
-    font-size: 70px;
+.title{
+    color: #FFEAC4;
     margin: -270px 0px 0px 0px;
     height: 270px;
 }
@@ -84,8 +91,6 @@ p.subtitle{
 
 /* Container 01c */
 .container01c{
-    padding: 0;
-    margin: 10px 0;
-    height: 200px;
+    height: 231px;
 }
 

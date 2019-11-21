@@ -1,4 +1,16 @@
 @media only screen and (min-width : 769px ) and ( max-width : 1024px ){
+.titlebackground{
+    padding: 70px 50px 0px 50px;
+    margin: -600px 0px 0px 0px;
+}
+.txtbackground1{
+    font-size: 50px;
+    margin: 20px 0px 0px 0px;
+}
+.txtbackground2{
+    font-size: 40px;
+    margin: 140px 0px 0px 0px;
+}
 /* Container 00 */
 /* Container 01 */
 /* Container 02 */
