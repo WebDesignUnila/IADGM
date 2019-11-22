@@ -1,13 +1,9 @@
-.navbar{
-    z-index: 100;
-}
 /*Body*/
 body{
     font-family: 'Montserrat', sans-serif;
 }
 
 p{
-    font-size: 16px;
 	font-weight: 500;
     text-align: justify;
     padding: 15px 15px 10px 15px;
@@ -58,20 +54,20 @@ img#tb17{
     text-align: center;
     color: #FFFFFF;
     font-weight: 400;
-    font-size: 50px;
-    margin: -280px 0px 0px 0px;
-    height: 280px;
+    font-size: 60px;
+    margin: -220px 0px 0px 0px;
+    height: 220px;
 }
 /*Acordion*/
-.card-header#heading1, .card-header#heading2, .card-header#heading3, .card-header#heading4, .card-header#heading5, .card-header#heading6, 
-.card-header#heading7, .card-header#heading8, .card-header#heading9 {
+.card-header#heading1, .card-header#heading2, .card-header#heading3, .card-header#heading4, .card-header#heading5, 
+.card-header#heading6, .card-header#heading7, .card-header#heading8, .card-header#heading9 {
     border-left-width: 8px;
 	border-color: #FCA615;
 	border-left-style: solid;
 	background: #FFFFFF;
 }
-.card#accordion1, .card#accordion2, .card#accordion3, .card#accordion4, .card#accordion5, .card#accordion6, .card#accordion7, .card#accordion8, 
-.card#accordion9, .card#accordion10 {
+.card#accordion1, .card#accordion2, .card#accordion3, .card#accordion4, .card#accordion5, 
+.card#accordion6, .card#accordion7, .card#accordion8, .card#accordion9 {
 	background: #F5F5F5;
 	margin: 0;
 }
