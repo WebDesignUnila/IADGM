@@ -1,6 +1,3 @@
-.navbar{
-    z-index: 100;
-}
 /*Body*/
 body{
     font-family: 'Montserrat', sans-serif;
@@ -43,7 +40,7 @@ img#tb08{
 }
 .titletxt{
     text-align: center;
-    color: #FFFFFF;
+    color: #FFEAC4;
     font-weight: 400;
     font-size: 80px;
     margin: -230px 0px 0px 0px;
@@ -72,8 +69,6 @@ img#tb08{
 /* Container 00 */
 .container00a{
     box-shadow: 0 15px 40px #353535;
-    background: rgb(41,128,136);
-    background: linear-gradient(90deg, rgba(41,128,136,.8) 0%, rgba(20,187,239,.8) 100%);
 }
 /* Container 01 */
 /* Container 02 */

@@ -2,13 +2,10 @@
 /*Body*/
 p.titletxt{
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
 }
 /* Title */
-.title{
-    margin: -65px 0px 0px 0px;
-    height: 65px;
-}
+
 /* Image */
 .txtimageopen01{
     font-size: 25px;

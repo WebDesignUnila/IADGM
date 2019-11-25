@@ -1,6 +1,3 @@
-.navbar{
-    z-index: 100;
-}
 /*Body*/
 body{
     font-family: 'Montserrat', sans-serif;
@@ -43,7 +40,7 @@ img#tb06{
 }
 .titletxt{
     text-align: center;
-    color: #FFFFFF;
+    color: #FFEAC4;
     font-weight: 400;
     font-size: 60px;
     margin: -260px 0px 0px 0px;
@@ -52,8 +49,8 @@ img#tb06{
 
 /*Nav*/
 nav#container{
-background: rgb(25,76,80);
-background: linear-gradient(90deg, rgba(25,76,80,1) 0%, rgba(20,187,239,1) 100%);
+    background: #CEB27C;
+    background: linear-gradient(90deg, rgba(206,178,124,1) 60%, rgba(255,255,255,1) 100%);
 }
 .nav-item#nav-container01-tab, .nav-item#nav-container02-tab, .nav-item#nav-container03-tab, .nav-item#nav-container04-tab{
     padding: 0px 0px 0px 0px;

@@ -57,7 +57,7 @@ img#tb09{
 }
 .titletxt{
     text-align: center;
-    color: #FFFFFF;
+    color: #FFEAC4;
     font-weight: 400;
     font-size: 80px;
     margin: -280px 0px 0px 0px;
@@ -72,8 +72,8 @@ img#tb09{
 
 /* Nav */
 nav#container{
-background: rgb(41,128,136);
-background: linear-gradient(90deg, rgba(41,128,136,1) 0%, rgba(20,187,239,1) 100%);
+    background: rgb(206,178,124);
+    background: linear-gradient(90deg, rgba(206,178,124,1) 60%, rgba(255,255,255,1) 100%);
 }
 .nav-item{
     height: 63px;
