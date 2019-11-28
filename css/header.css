@@ -2,15 +2,12 @@
 nav{
     box-shadow: 0 5px 30px #000000;
     background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(206,178,124,1) 39%);
-	z-index: 1;
+    background: linear-gradient(90deg, rgba(253,253,253,1.00) 0%, rgba(206,178,124,1) 39%);
 }
-.nav-link#navbarDropdownMenuLink {
-	color: #000000;
-	margin: 0px 0px 0px 30px;
-    
+.nav-link.dropdown-toggle {
+	margin: 0px 0px 0px 90px;
 }
-.nav-link#navbarDropdownMenuLink:hover {
+.nav-link#navbarDropdownMenuLink:hover{
     color: #0181A8;
 }
 .dropdown-menu#n01, .dropdown-menu#n02, .dropdown-menu#n03, .dropdown-menu#n04{
@@ -20,6 +17,13 @@ nav{
 .dropdown-menu{
     background: #FFEAC4;
 }
+.dropdown-menu#n03{
+    overflow: scroll;
+}
+.dropdown-item{
+    padding: 0px 0px 0px 30px;
+    margin: 0px 0px 0px 0px;
+}
 .navbar{
-    z-index: 100;
+    z-index: 10;
 }

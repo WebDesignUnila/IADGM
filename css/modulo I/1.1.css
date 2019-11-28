@@ -39,13 +39,19 @@ p{
 /* Title */
 .title{
     color: #FFEAC4;
-    background:url("../../image/jpg/TB01.jpg")no-repeat;
     padding: 0;
     margin: 0px 0px 0px 0px;
     width: auto;
     height: auto;
 }
-
+.titletxt{
+    text-align: center;
+    color: #FFEAC4;
+    font-weight: 400;
+    font-size: 80px;
+    margin: -240px 0px 0px 0px;
+    height: 230px;
+}
 /*Acordion*/
 .card-header#heading1, .card-header#heading2, .card-header#heading3, .card-header#heading4, .card-header#heading5, .card-header#heading6 {
     border-left-width: 8px;

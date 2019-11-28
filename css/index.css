@@ -129,11 +129,11 @@ background: linear-gradient(90deg, rgba(0,0,0,0.5) 42%, rgba(206,178,124,0.4) 10
     font-size: 24px;
     margin: 50px 0px 0px 50px;
 }
-a{
+.txtc05 ol li a{
     color: #ceb27c;
     font-size: 18px;
 }
-a:hover{
+.txtc05 ol li a:hover{
     color: #14BBEF;
 }
 

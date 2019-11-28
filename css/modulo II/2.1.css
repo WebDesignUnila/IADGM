@@ -80,11 +80,11 @@ nav#container{
 }
 /* Dossier */
 .fas.fa-chalkboard-teacher{
-    color: #4F4F4F;
-    font-size: 50px;
+    color: #E3244F;
+    font-size: 40px;
     margin: 0px 0px 20px 20px;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
 }
 /* Modal */
 .modal.fade{
