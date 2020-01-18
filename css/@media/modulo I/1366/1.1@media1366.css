@@ -2,9 +2,10 @@
 /*Body*/
 
 /* Title */
-p.titletxt{
-    text-align: center;
+.titletxt {
     font-size: 50px;
+    margin: -210px 0px 0px 0px;
+    height: 210px;
 }
 /* Container 00 */
 /* Container 01 */

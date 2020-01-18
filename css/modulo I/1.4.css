@@ -91,11 +91,10 @@ nav#container {
     margin: 10px 0px 0px 0px;
 }
 .container02b{
-    text-align: justify;
+    color: #FFFFFF;
     box-shadow: 0 5px 40px #353535;
-    background: rgb(41,128,136);
-    background: linear-gradient(90deg, rgba(41,128,136,.6) 0%, rgba(20,187,239,.6) 100%);
-    padding: 20px;
+    background: #CEB27C;
+    margin: 10px 0px 0px 0px;
     height: 100%;
 }
 .container02c{

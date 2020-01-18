@@ -75,16 +75,19 @@ nav#container{
     background: rgb(206,178,124);
     background: linear-gradient(90deg, rgba(206,178,124,1) 60%, rgba(255,255,255,1) 100%);
 }
+
 .nav-item{
     height: 63px;
 }
 /* Dossier */
+nav#container .nav .nav-tabs .fas .fa-chalkboard-teacher{
+    justify-content: flex-end;
+    display: flex;
+}
 .fas.fa-chalkboard-teacher{
     color: #E3244F;
     font-size: 40px;
-    margin: 0px 0px 20px 20px;
-    width: 40px;
-    height: 40px;
+    margin: 10px 0px 0px 1400px;
 }
 /* Modal */
 .modal.fade{
@@ -114,10 +117,12 @@ nav#container{
 
 /* Container 00 */
 .container00b{
-    box-shadow: 0 15px 40px #353535;
     color: #000000;
-background: rgb(20,187,239);
-background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6) 100%);
+    
+    box-shadow: 0 15px 40px #353535;
+    border-bottom-width: 8px;
+	border-color: #FCA615;
+	border-bottom-style: solid;
 }
 
 /* Container 01 */
@@ -136,8 +141,8 @@ background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6)
 
 /*2.1.1b*/
 .txt01d{
-background: rgb(20,187,239);
-background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6) 100%);  
+    background: rgb(20,187,239);
+    background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6) 100%);  
 }
 .card#accordion2b{
     margin: -15px 0px 0px 0px;
@@ -164,7 +169,7 @@ background: linear-gradient(90deg, rgba(20,187,239,0.6) 0%, rgba(226,226,42,0.6)
     display: flex;
     transition: 0.5s;
     background: rgb(226,226,42);
-background: linear-gradient(90deg, rgba(226,226,42,0.8) 0%, rgba(20,187,239,0.8) 100%);
+    background: linear-gradient(90deg, rgba(226,226,42,0.8) 0%, rgba(20,187,239,0.8) 100%);
     margin: -410px 0px 0px 0px;
     height: 410px;
 }
@@ -172,17 +177,22 @@ background: linear-gradient(90deg, rgba(226,226,42,0.8) 0%, rgba(20,187,239,0.8)
     height: 120px;
 }
 .txthoverc02a{
-    margin: 120px 0px 0px 0px;
+    margin: 110px 0px 0px 0px;
+}
+.txthoverc02a#txth02c{
+    font-size: 14.5px;
+    margin: 110px 0px 0px 0px;
 }
 /* Container02b */
 .container02b{
+    justify-content: center;
     display: flex;
     padding: 0px;
     margin: 0px;
 }
 /* Acordion */
 .card#accordion5{
-    margin: -15px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 img{
     width: 100%;

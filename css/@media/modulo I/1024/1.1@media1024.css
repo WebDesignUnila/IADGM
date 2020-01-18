@@ -1,11 +1,15 @@
 @media only screen and (min-width : 769px ) and ( max-width : 1024px ){
 /*Body*/
-
 p.titletxt{
     text-align: center;
     font-size: 35px;
 }
 /* Title */
+.titletxt {
+    font-size: 60px;
+    margin: -125px 0px 0px 0px;
+    height: 125px;
+}
 /* Container 01c */
 .imageopen01{
     text-align: center;
